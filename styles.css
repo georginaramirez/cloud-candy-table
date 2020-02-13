@@ -1,0 +1,42 @@
+img {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+body{
+    background-color: pink;
+}
+h1{
+     border: 1px dotted;
+    padding: 10px;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    border: 1px dotted;
+    padding: 10px;
+}
+img{
+    border: 5px solid lavender;
+}
+h3{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    border: 1px dotted;
+    padding: 10px;
+}
+h4{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    border: 1px dotted;
+    padding: 10px;
+}
+li{
+    color: violet;
+}
